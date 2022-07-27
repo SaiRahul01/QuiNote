@@ -1,0 +1,5 @@
+email: mysticpower972@gmail.com
+PORT = 5000
+MONGO_URL = 'mongodb+srv://admin:quinoteapp@cluster0.c7hwr5u.mongodb.net/?retryWrites=true&w=majority'
+NODE_ENV = production
+JWT_SECRET = 'quinotejsonwebtoken'

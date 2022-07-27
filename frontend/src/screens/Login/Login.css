@@ -1,0 +1,16 @@
+.loginform{
+    border: 1px solid black;
+    border-radius: 12px;
+    width: 40%;
+    padding: 4%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.loginbtn{
+
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
